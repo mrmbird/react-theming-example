@@ -2,6 +2,7 @@
   "name": "light",
 
   "background": "#fff",
+  "navBar": "#24AAF2",
   "text": {
     "primary01": "#333",
     "primary02": "green"

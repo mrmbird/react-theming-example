@@ -1,9 +1,10 @@
 {
   "name": "retro",
 
-  "background": "purple",
+  "background": "#DB2CA6",
+  "navBar": "#42496C",
   "text": {
-    "primary01": "red",
-    "primary02": "blue"
+    "primary01": "#fff",
+    "primary02": "#333"
   }
 }
