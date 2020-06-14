@@ -1,0 +1,9 @@
+{
+  "name": "retro",
+
+  "background": "purple",
+  "text": {
+    "primary01": "red",
+    "primary02": "blue"
+  }
+}

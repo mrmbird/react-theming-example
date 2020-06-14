@@ -1,0 +1,9 @@
+{
+  "name": "dark",
+
+  "background": "#000",
+  "text": {
+    "primary01": "#fff",
+    "primary02": "red"
+  }
+}
